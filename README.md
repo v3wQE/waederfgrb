@@ -1,5 +1,5 @@
-getgenv().RecurringPoint = "UpperTorso"
-getgenv().Hitbox = "UpperTorso"
+getgenv().RecurringPoint = "Head"
+getgenv().Hitbox = "Head"
 getgenv().Keybind = "q"
 getgenv().AimbotStrengthAmount = 0.3000
 getgenv().PredictionAmount = 7.5
